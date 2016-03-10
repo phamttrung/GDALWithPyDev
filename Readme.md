@@ -1,6 +1,4 @@
-Download GDAL http://www.gisinternals.com/release.php
-Step for installing http://www.gisinternals.com/release.php
-
+#Setup GDAL/OGR Python API in PyDev with a demo for accessing GDAL data
 
 ## Installation
 
