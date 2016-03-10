@@ -3,9 +3,13 @@
 ## Installation
 
 * Install Python and GDAL for Python
+
   * Download and install Python: 
+  
     * go to [https://www.python.org/downloads/](https://www.python.org/downloads/) and download the latest version for Windows, download the latest 2.7.2 version of Python (rather than the 3.x Python version)
+    
 	* click on the download file to start the installation, install Python with default options and directions
+	
 	* after installation, from Windows Start menu, go to Python IDLE (Python GUI) to find out waht version of Python (32 bit or 64 bit)
 		![Python IDLE](/img/01_PythonShell.png)
 	Make a note of MSC number (MSC v.1500) and 32 bit or 64 bit for GDAL installation.
